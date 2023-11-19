@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Чтение CSV файла
-csv_file_path = 'D:\\Coding\\PYTHON\\CSVtoJSON\\data\\csv\\Canada_16_11_23_sample.csv'
+csv_file_path = 'D:\Coding\PYTHON\PythonProjects\CSVtoJSON\data\csv\Canada_16_11_23_sample.csv'
 df = pd.read_csv(csv_file_path, sep='\t')
 print(df.columns)
 
