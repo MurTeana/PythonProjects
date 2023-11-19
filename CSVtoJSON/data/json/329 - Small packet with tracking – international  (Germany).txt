@@ -1,0 +1,49 @@
+[{
+	"parcelType": 329,
+	"parcels": [{
+		"parcelNumber": "",
+		"weight": 250,
+		"volume": 0.0,
+		"additionalServices": [{
+			"code": "JAV",
+			"amount": 0.0
+		}],
+		"cn23": [{
+			"content": "test predmet 1",
+			"quantity": 3
+		},
+		{
+			"content": "test predmet 2",
+			"quantity": 1
+		}],
+		"international": {
+			"nonDeliveryInstruction": 1,
+			"categoryType": 5,
+			"categoryExplanation": "",
+			"importer": "",
+			"importerPhone": "",
+			"importerEmail": "",
+			"comments": "",
+			"license": "",
+			"certificate": "",
+			"invoice": "",
+			"codForeign": 0.00,
+			"codForeignCurrency": null
+		},
+		"parcelContent": 1
+	}],
+	"commonServices": null,
+	"addressee": {
+		"addresseeName1": "TESTNI NASLOVNIK",
+		"addresseeName2": "",
+		"addresseeAddress": "Testna ulica 45/23",
+		"addresseePostId": "23000",
+		"addresseePost": "Berlin",
+		"addresseeCountryId": "276",
+		"addresseePhone": "+38441789456",
+		"addresseeEmail": "test@TEST.SI"
+	},
+	"upn": null,
+	"comment1": "",
+	"comment2": "TESTNA OPOMBA 2"
+}]

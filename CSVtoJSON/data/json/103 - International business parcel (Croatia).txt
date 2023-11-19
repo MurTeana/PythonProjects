@@ -1,0 +1,51 @@
+[{
+	"parcelType": 103,
+	"parcels": [{
+		"parcelNumber": "",
+		"weight": 14200,
+		"volume": 0.0,
+		"additionalServices": [{
+			"code": "ODK",
+			"amount": 123.23
+                },
+		{
+			"code": "V",
+			"amount": 452.23
+		},
+		{
+			"code": "PR",
+			"amount":0.0
+		}],
+		"cn23": null,
+		"international": {
+			"nonDeliveryInstruction": 1,
+			"categoryType": 5,
+			"categoryExplanation": null,
+			"importer": null,
+			"importerPhone": null,
+			"importerEmail": null,
+			"comments": null,
+			"license": null,
+			"certificate": null,
+			"invoice": null,
+			"codForeign": 1420.23,
+			"codForeignCurrency": "HRK"
+		},
+		"parcelContent": 1
+	}],
+	"commonServices": null,
+	"addressee": {
+		"addresseeName1": "HRVAŠKI NASLOVNIK",
+		"addresseeName2": "DODATEN NAZIV",
+		"addresseeAddress": "ZAGREBŠKA ULICA 12",
+		"addresseePostId": "10000",
+		"addresseePost": "ZAGREB",
+		"addresseeCountryId": "191",
+		"addresseePhone": "0038541123456",
+		"addresseeEmail": "TEST@TEST.SI"
+	},
+	"upn": null,
+	"comment1": "",
+	"comment2": "OPOMBA ŠTEVILKA 2",
+        "recordNumber": 1
+}]

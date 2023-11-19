@@ -1,0 +1,58 @@
+[{
+	"parcelType": 329,
+	"parcels": [{
+		"parcelNumber": "",
+		"weight": 250,
+		"volume": 0.0,
+		"additionalServices": [{
+			"code": "JAV",
+			"amount": 0.0
+		}],
+		"cn23": [{
+			"content": "test predmet 1",
+			"quantity": 3,
+			"netWeight": 1456,
+			"value": 56.78,
+			"tariff": "123456",
+			"countryOfOrigin": "156"
+		},
+		{
+			"content": "test predmet 2",
+			"quantity": 120,
+			"netWeight": 14789,
+			"value": 999.78,
+			"tariff": "12345678",
+			"countryOfOrigin": "705"
+		}],
+		"international": {
+			"nonDeliveryInstruction": 1,
+			"categoryType": 5,
+			"categoryExplanation": "",
+			"importer": "9876123",
+			"importerPhone": "0038752356787",
+			"importerEmail": "testTEST@test.si",
+			"comments": "",
+			"license": "",
+			"certificate": "",
+			"invoice": "RA-456789",
+			"codForeign": 0.00,
+			"codForeignCurrency": null
+		},
+		"parcelContent": 1
+	}],
+	"commonServices": null,
+	"addressee": {
+		"addresseeName1": "Tine Testni",
+		"addresseeName2": "Dodaten naziv",
+		"addresseeAddress": "Testna ulica 45",
+		"addresseePostId": "22500",
+		"addresseePost": "Madrid",
+		"addresseeCountryId": "724",
+		"addresseePhone": "+38441789456",
+		"addresseeEmail": "TESTNI@TEST.SI"
+	},
+	"upn": null,
+	"comment1": "",
+	"comment2": "TESTNA OPOMBA 2",
+        "recordNumber": 1
+}]

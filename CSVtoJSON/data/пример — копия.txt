@@ -1,0 +1,31 @@
+        "parcelType": row["parcelType"],
+        "parcels": [
+            {
+                "additionalServices": [
+                    {"code": "DOB", "amount": 0.0},
+                    {"code": "V", "amount": row["V"]},  # Замените "V" на фактический столбец CSV
+                    {"code": "ODK", "amount": row["ODK"]}  # Замените "ODK" на фактический столбец CSV
+                ],
+                "parcelNumber": row["parcelNumber"],
+                "weight": row["weight"],
+                "volume": 0.0,
+                "cn23": None,
+                "international": None,
+                "parcelDate": row["parcelDate"]
+            }
+        ],
+        "commonServices": None,
+        "addressee": {
+            "addresseeName1": row["addresseeName1"],
+            "addresseeName2": row["addresseeName2"],
+            "addresseeAddress": row["addresseeAddress"],
+            "addresseePostId": row["addresseePostId"],
+            "addresseePost": row["addresseePost"],
+            "addresseeCountryId": row["addresseeCountryId"],
+            "addresseePhone": row["addresseePhone"],
+            "addresseeEmail": row["addresseeEmail"]
+        },
+        "upn": None,
+        "comment1": row["comment1"],
+        "comment2": row["comment2"],
+        "recordNumber": row["recordNumber"]

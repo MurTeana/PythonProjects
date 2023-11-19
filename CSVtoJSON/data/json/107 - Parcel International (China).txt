@@ -1,0 +1,78 @@
+[{
+	"parcelType": 107,
+	"parcels": [{
+		"parcelNumber": "",
+		"weight": 5800,
+		"volume": 0.0,
+		"additionalServices": [{
+			"code": "A",
+			"amount": 0.0
+                },
+		{
+			"code": "V",
+			"amount": 4000.12
+		}],
+		"cn23": [{
+			"content": "vsebina pošiljke 1",
+			"quantity": 3,
+			"netWeight": 1456,
+			"value": 56.78,
+			"tariff": "123456",
+			"countryOfOrigin": "156"
+		},
+                {
+			"content": "vsebina pošiljke 2",
+			"quantity": 3,
+			"netWeight": 456,
+			"value": 66.78,
+			"tariff": "123456",
+			"countryOfOrigin": "840"
+		},
+                 {
+			"content": "vsebina pošiljke 3",
+			"quantity": 3,
+			"netWeight": 87,
+			"value": 56.78,
+			"tariff": "123456",
+			"countryOfOrigin": "792"
+		},
+		{
+			"content": "vsebina pošiljke 4",
+			"quantity": 18,
+			"netWeight": 1489,
+			"value": 999.78,
+			"tariff": "12345678",
+			"countryOfOrigin": "792"
+		}],
+		"international": {
+			"nonDeliveryInstruction": 1,
+			"categoryType": 5,
+			"categoryExplanation": null,
+			"importer": "1234789",
+			"importerPhone": "0038751123456",
+			"importerEmail": "test@test.si",
+			"comments": "",
+			"license": "",
+			"certificate": "",
+			"invoice": "racun-456wqy789",
+			"codForeign": 0.0,
+			"codForeignCurrency": null
+		},
+		"parcelContent": 1
+	}],
+	"commonServices": null,
+	"addressee": {
+		"addresseeName1": "KITAJSKA NASLOVNIK",
+		"addresseeName2": "Dodaten naziv",
+		"addresseeAddress": "Testna ulica 56",
+		"addresseePostId": "225987",
+		"addresseePost": "Shanghai",
+		"addresseeCountryId": "156",
+		"addresseePhone": "+38441789456",
+		"addresseeEmail": "KITAJSKI@TEST.SI"
+	},
+	"upn": null,
+	"comment1": "",
+	"comment2": "to je opomba",
+        "recordNumber":"1"
+}]
