@@ -1,128 +1,167 @@
 [
   {
-    "parcelType": "103",
+    "parcelType": 103,
     "parcels": [
       {
+        "parcelNumber": 88155473008601,
+        "weight": null,
+        "volume": null,
         "additionalServices": [
           {
-            "code": "DOB",
-            "amount": 0.0
+            "code": "ODK",
+            "amount": null
           },
           {
             "code": "V",
             "amount": 39.9
           },
           {
-            "code": "ODK",
-            "amount": 0.0
+            "code": "PR",
+            "amount": null
           }
         ],
-        "parcelNumber": "",
-        "weight": "",
-        "volume": 0.0,
         "cn23": null,
-        "international": null,
-        "parcelDate": ""
+        "international": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": null,
+          "importer": null,
+          "importerPhone": null,
+          "importerEmail": null,
+          "comments": null,
+          "license": null,
+          "certificate": null,
+          "invoice": null,
+          "codForeign": null,
+          "codForeignCurrency": "CDN"
+        },
+        "parcelContent": 1
       }
     ],
     "commonServices": null,
     "addressee": {
-      "addresseeName1": "Hesham",
-      "addresseeName2": "",
+      "addresseeName1": "Hesham H. H. Mohammed",
+      "addresseeName2": "Hesham",
       "addresseeAddress": "77 Citation Crescent",
       "addresseePostId": "L9K 1H8",
       "addresseePost": "Ancaster",
-      "addresseeCountryId": "CA",
+      "addresseeCountryId": "124",
       "addresseePhone": 9055125645,
       "addresseeEmail": "1mp1y9hswrlcw61@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "2023-11-12T07:15:54-08:00",
-    "comment2": NaN,
-    "recordNumber": 88155473008601
+    "comment1": "Ontario",
+    "comment2": "Pocket_Coffee_18_FBM",
+    "recordNumber": "702-1977739-6933837"
   },
   {
-    "parcelType": "103",
+    "parcelType": 103,
     "parcels": [
       {
+        "parcelNumber": 88155755800361,
+        "weight": null,
+        "volume": null,
         "additionalServices": [
           {
-            "code": "DOB",
-            "amount": 0.0
+            "code": "ODK",
+            "amount": null
           },
           {
             "code": "V",
             "amount": 63.9
           },
           {
-            "code": "ODK",
-            "amount": 0.0
+            "code": "PR",
+            "amount": null
           }
         ],
-        "parcelNumber": "",
-        "weight": "",
-        "volume": 0.0,
         "cn23": null,
-        "international": null,
-        "parcelDate": ""
+        "international": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": null,
+          "importer": null,
+          "importerPhone": null,
+          "importerEmail": null,
+          "comments": null,
+          "license": null,
+          "certificate": null,
+          "invoice": null,
+          "codForeign": null,
+          "codForeignCurrency": "CDN"
+        },
+        "parcelContent": 1
       }
     ],
     "commonServices": null,
     "addressee": {
-      "addresseeName1": "Joseph",
-      "addresseeName2": "",
+      "addresseeName1": "Joseph Muglia",
+      "addresseeName2": "Joseph",
       "addresseeAddress": "72 Radisson Dr",
       "addresseePostId": "K0A 1W0",
       "addresseePost": "Embrun",
-      "addresseeCountryId": "CA",
+      "addresseeCountryId": "124",
       "addresseePhone": 6136142795,
       "addresseeEmail": "t32lm9yzh6htrbd@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "2023-11-12T07:13:56-08:00",
-    "comment2": NaN,
-    "recordNumber": 88155755800361
+    "comment1": "Ontario",
+    "comment2": "BE-36D5-MFGZ",
+    "recordNumber": "702-6404705-5881054"
   },
   {
-    "parcelType": "103",
+    "parcelType": 103,
     "parcels": [
       {
+        "parcelNumber": 88154905675921,
+        "weight": null,
+        "volume": null,
         "additionalServices": [
           {
-            "code": "DOB",
-            "amount": 0.0
+            "code": "ODK",
+            "amount": null
           },
           {
             "code": "V",
             "amount": 73.9
           },
           {
-            "code": "ODK",
-            "amount": 0.0
+            "code": "PR",
+            "amount": null
           }
         ],
-        "parcelNumber": "",
-        "weight": "",
-        "volume": 0.0,
         "cn23": null,
-        "international": null,
-        "parcelDate": ""
+        "international": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": null,
+          "importer": null,
+          "importerPhone": null,
+          "importerEmail": null,
+          "comments": null,
+          "license": null,
+          "certificate": null,
+          "invoice": null,
+          "codForeign": null,
+          "codForeignCurrency": "CDN"
+        },
+        "parcelContent": 1
       }
     ],
     "commonServices": null,
     "addressee": {
-      "addresseeName1": "maryam",
-      "addresseeName2": "",
+      "addresseeName1": "Maryam Askari",
+      "addresseeName2": "maryam",
       "addresseeAddress": "44 Coldstream Run",
       "addresseePostId": "B2W 0A3",
       "addresseePost": "Dartmouth",
-      "addresseeCountryId": "CA",
+      "addresseeCountryId": "124",
       "addresseePhone": 9024405218,
       "addresseeEmail": "82yc7pjq6mrk6hg@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "2023-11-12T06:37:58-08:00",
-    "comment2": NaN,
-    "recordNumber": 88154905675921
+    "comment1": "Nova Scotia",
+    "comment2": "pocket_coffee_FBM_12-5",
+    "recordNumber": "701-1043328-3249042"
   }
 ]

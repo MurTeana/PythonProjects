@@ -1,0 +1,84 @@
+[{
+	"parcelType": 103,
+	"parcels": [{
+		"parcelNumber": "",
+		"weight": 14200,
+		"volume": 0.0,
+		"additionalServices": [{
+			"code": "ODK",
+			"amount": 123.23
+                },
+		{
+			"code": "V",
+			"amount": 452.23
+		},
+		{
+			"code": "PR",
+			"amount":0.0
+		}],
+		"cn23": null,
+		"international": {
+			"nonDeliveryInstruction": 1,
+			"categoryType": 5,
+			"categoryExplanation": null,
+			"importer": null,
+			"importerPhone": null,
+			"importerEmail": null,
+			"comments": null,
+			"license": null,
+			"certificate": null,
+			"invoice": null,
+			"codForeign": 1420.23,
+			"codForeignCurrency": "HRK"
+		},
+		"parcelContent": 1
+	}],
+	"commonServices": null,
+	"addressee": {
+		"addresseeName1": "HRVA�KI NASLOVNIK",
+		"addresseeName2": "DODATEN NAZIV",
+		"addresseeAddress": "ZAGREB�KA ULICA 12",
+		"addresseePostId": "10000",
+		"addresseePost": "ZAGREB",
+		"addresseeCountryId": "191",
+		"addresseePhone": "0038541123456",
+		"addresseeEmail": "TEST@TEST.SI"
+	},
+	"upn": null,
+	"comment1": "",
+	"comment2": "OPOMBA �TEVILKA 2",
+        "recordNumber": 1
+}]
+
+
+        "parcelType": "103",
+        "parcels": [
+            {
+                "additionalServices": [
+                    {"code": "DOB", "amount": None},
+                    {"code": "V", "amount": row.get("item-price")},
+                    {"code": "ODK", "amount": None}
+                ],
+                "parcelNumber": row.get("order-item-id"),
+                "weight": "",
+                "volume": 0.0,
+                "cn23": None,
+                "international": None,
+                "parcelDate": row.get("purchase-date")
+            }
+        ],
+        "commonServices": None,
+        "addressee": {
+            "addresseeName1": row.get("recipient-name", ""),
+            "addresseeName2": row.get("buyer-name", ""),
+            "addresseeAddress": row.get("ship-address-1"),
+            "addresseePostId": row.get("ship-postal-code"),
+            "addresseePost": row.get("ship-city"),
+            "addresseeCountryId": 124,  # for Canada
+            "addresseePhone": row.get("ship-phone-number"),
+            "addresseeEmail": row.get("buyer-email")
+        },
+        "upn": None,
+        "comment1": None,
+        "comment2": None,
+        "recordNumber": None
