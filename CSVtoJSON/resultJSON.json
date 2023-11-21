@@ -1,39 +1,36 @@
 [
   {
-    "parcelType": 103,
+    "parcelType": 329,
     "parcels": [
       {
-        "parcelNumber": 88155473008601,
-        "weight": null,
-        "volume": null,
+        "parcelNumber": "",
+        "weight": 0,
+        "volume": 0.0,
         "additionalServices": [
           {
-            "code": "ODK",
-            "amount": null
-          },
-          {
-            "code": "V",
-            "amount": 39.9
-          },
-          {
-            "code": "PR",
-            "amount": null
+            "code": "JAV",
+            "amount": 0.0
           }
         ],
-        "cn23": null,
+        "cn23": [
+          {
+            "content": "FERRERO Pocket Coffee Espresso, 18 pcs (225g)",
+            "quantity": 1
+          }
+        ],
         "international": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
-          "categoryExplanation": null,
-          "importer": null,
-          "importerPhone": null,
-          "importerEmail": null,
-          "comments": null,
-          "license": null,
-          "certificate": null,
-          "invoice": null,
-          "codForeign": null,
-          "codForeignCurrency": "CDN"
+          "categoryExplanation": "",
+          "importer": "",
+          "importerPhone": "",
+          "importerEmail": "",
+          "comments": "",
+          "license": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0.0,
+          "codForeignCurrency": null
         },
         "parcelContent": 1
       }
@@ -46,49 +43,45 @@
       "addresseePostId": "L9K 1H8",
       "addresseePost": "Ancaster",
       "addresseeCountryId": "124",
-      "addresseePhone": 9055125645,
+      "addresseePhone": "9055125645",
       "addresseeEmail": "1mp1y9hswrlcw61@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "Ontario",
-    "comment2": "Pocket_Coffee_18_FBM",
-    "recordNumber": "702-1977739-6933837"
+    "comment1": null,
+    "comment2": null
   },
   {
-    "parcelType": 103,
+    "parcelType": 329,
     "parcels": [
       {
-        "parcelNumber": 88155755800361,
-        "weight": null,
-        "volume": null,
+        "parcelNumber": "",
+        "weight": 0,
+        "volume": 0.0,
         "additionalServices": [
           {
-            "code": "ODK",
-            "amount": null
-          },
-          {
-            "code": "V",
-            "amount": 63.9
-          },
-          {
-            "code": "PR",
-            "amount": null
+            "code": "JAV",
+            "amount": 0.0
           }
         ],
-        "cn23": null,
+        "cn23": [
+          {
+            "content": "Ferrero Pocket Coffee Made in Italy 5 Packs of 5 Pieces Each",
+            "quantity": 1
+          }
+        ],
         "international": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
-          "categoryExplanation": null,
-          "importer": null,
-          "importerPhone": null,
-          "importerEmail": null,
-          "comments": null,
-          "license": null,
-          "certificate": null,
-          "invoice": null,
-          "codForeign": null,
-          "codForeignCurrency": "CDN"
+          "categoryExplanation": "",
+          "importer": "",
+          "importerPhone": "",
+          "importerEmail": "",
+          "comments": "",
+          "license": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0.0,
+          "codForeignCurrency": null
         },
         "parcelContent": 1
       }
@@ -101,49 +94,45 @@
       "addresseePostId": "K0A 1W0",
       "addresseePost": "Embrun",
       "addresseeCountryId": "124",
-      "addresseePhone": 6136142795,
+      "addresseePhone": "6136142795",
       "addresseeEmail": "t32lm9yzh6htrbd@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "Ontario",
-    "comment2": "BE-36D5-MFGZ",
-    "recordNumber": "702-6404705-5881054"
+    "comment1": null,
+    "comment2": null
   },
   {
-    "parcelType": 103,
+    "parcelType": 329,
     "parcels": [
       {
-        "parcelNumber": 88154905675921,
-        "weight": null,
-        "volume": null,
+        "parcelNumber": "",
+        "weight": 0,
+        "volume": 0.0,
         "additionalServices": [
           {
-            "code": "ODK",
-            "amount": null
-          },
-          {
-            "code": "V",
-            "amount": 73.9
-          },
-          {
-            "code": "PR",
-            "amount": null
+            "code": "JAV",
+            "amount": 0.0
           }
         ],
-        "cn23": null,
+        "cn23": [
+          {
+            "content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "quantity": 1
+          }
+        ],
         "international": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
-          "categoryExplanation": null,
-          "importer": null,
-          "importerPhone": null,
-          "importerEmail": null,
-          "comments": null,
-          "license": null,
-          "certificate": null,
-          "invoice": null,
-          "codForeign": null,
-          "codForeignCurrency": "CDN"
+          "categoryExplanation": "",
+          "importer": "",
+          "importerPhone": "",
+          "importerEmail": "",
+          "comments": "",
+          "license": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0.0,
+          "codForeignCurrency": null
         },
         "parcelContent": 1
       }
@@ -156,12 +145,11 @@
       "addresseePostId": "B2W 0A3",
       "addresseePost": "Dartmouth",
       "addresseeCountryId": "124",
-      "addresseePhone": 9024405218,
+      "addresseePhone": "9024405218",
       "addresseeEmail": "82yc7pjq6mrk6hg@marketplace.amazon.ca"
     },
     "upn": null,
-    "comment1": "Nova Scotia",
-    "comment2": "pocket_coffee_FBM_12-5",
-    "recordNumber": "701-1043328-3249042"
+    "comment1": null,
+    "comment2": null
   }
 ]
