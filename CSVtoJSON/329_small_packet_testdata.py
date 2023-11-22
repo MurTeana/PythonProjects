@@ -2,15 +2,16 @@ import pandas as pd
 import json
 
 # Чтение CSV файла
-csv_file_path = 'D:Coding\PYTHON\PythonProjects\CSVtoJSON\data\csv\Сanada_test_10_from 211123.csv'
+csv_file_path = 'D:\Coding\PYTHON\PythonProjects\CSVtoJSON\data\csv\Сanada_test_10_from 211123.csv'
 df = pd.read_csv(csv_file_path, sep='\t')
-print(df.columns)
+# print(df.columns)
+num = 1
 
 # Сопоставление столбцов CSV с полями в JSON
 json_data = []
 for index, row in df.iterrows():
     parcel = {
-        "RecordNumber": 0,
+        "RecordNumber": num,
         "ParcelType": 329,
         "Parcels": [
             {
@@ -60,6 +61,7 @@ for index, row in df.iterrows():
         "Comment1": "",
         "Comment2": ""
     }
+    num = num + 1
 
     json_data.append(parcel)
 
