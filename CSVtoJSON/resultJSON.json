@@ -1,155 +1,512 @@
 [
   {
-    "parcelType": 329,
-    "parcels": [
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
       {
-        "parcelNumber": "",
-        "weight": 0,
-        "volume": 0.0,
-        "additionalServices": [
-          {
-            "code": "JAV",
-            "amount": 0.0
-          }
-        ],
-        "cn23": [
-          {
-            "content": "FERRERO Pocket Coffee Espresso, 18 pcs (225g)",
-            "quantity": 1
-          }
-        ],
-        "international": {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
           "categoryExplanation": "",
-          "importer": "",
-          "importerPhone": "",
-          "importerEmail": "",
+          "importerReference": "",
+          "importerPhone": "5196368590",
+          "importerEmail": "964z48d5fj6qx7v@marketplace.amazon.ca",
           "comments": "",
-          "license": "",
+          "licence": "",
           "certificate": "",
           "invoice": "",
-          "codForeign": 0.0,
-          "codForeignCurrency": null
+          "codForeign": 0,
+          "codForeignCurrency": ""
         },
-        "parcelContent": 1
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 69.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
       }
     ],
-    "commonServices": null,
-    "addressee": {
-      "addresseeName1": "Hesham H. H. Mohammed",
-      "addresseeName2": "Hesham",
-      "addresseeAddress": "77 Citation Crescent",
-      "addresseePostId": "L9K 1H8",
-      "addresseePost": "Ancaster",
-      "addresseeCountryId": "124",
-      "addresseePhone": "9055125645",
-      "addresseeEmail": "1mp1y9hswrlcw61@marketplace.amazon.ca"
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Renata Mak",
+      "AddresseeName2": "Renata Mak",
+      "AddresseeAddress": "691 Silversmith ST",
+      "AddresseePostId": "N6H5R8",
+      "AddresseePost": "London",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "5196368590",
+      "AddresseeEmail": "964z48d5fj6qx7v@marketplace.amazon.ca"
     },
-    "upn": null,
-    "comment1": null,
-    "comment2": null
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
   },
   {
-    "parcelType": 329,
-    "parcels": [
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
       {
-        "parcelNumber": "",
-        "weight": 0,
-        "volume": 0.0,
-        "additionalServices": [
-          {
-            "code": "JAV",
-            "amount": 0.0
-          }
-        ],
-        "cn23": [
-          {
-            "content": "Ferrero Pocket Coffee Made in Italy 5 Packs of 5 Pieces Each",
-            "quantity": 1
-          }
-        ],
-        "international": {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
           "categoryExplanation": "",
-          "importer": "",
-          "importerPhone": "",
-          "importerEmail": "",
+          "importerReference": "",
+          "importerPhone": "506-384-4551",
+          "importerEmail": "5j3qbjlqhzs8mdm@marketplace.amazon.ca",
           "comments": "",
-          "license": "",
+          "licence": "",
           "certificate": "",
           "invoice": "",
-          "codForeign": 0.0,
-          "codForeignCurrency": null
+          "codForeign": 0,
+          "codForeignCurrency": ""
         },
-        "parcelContent": 1
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee , 12er Pack (12 x 5 Stück Packung)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 56.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
       }
     ],
-    "commonServices": null,
-    "addressee": {
-      "addresseeName1": "Joseph Muglia",
-      "addresseeName2": "Joseph",
-      "addresseeAddress": "72 Radisson Dr",
-      "addresseePostId": "K0A 1W0",
-      "addresseePost": "Embrun",
-      "addresseeCountryId": "124",
-      "addresseePhone": "6136142795",
-      "addresseeEmail": "t32lm9yzh6htrbd@marketplace.amazon.ca"
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Bourque Monique",
+      "AddresseeName2": "Monique Bourque",
+      "AddresseeAddress": "122 Morewood Crescent",
+      "AddresseePostId": "E1A 6L3",
+      "AddresseePost": "Moncton",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "506-384-4551",
+      "AddresseeEmail": "5j3qbjlqhzs8mdm@marketplace.amazon.ca"
     },
-    "upn": null,
-    "comment1": null,
-    "comment2": null
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
   },
   {
-    "parcelType": 329,
-    "parcels": [
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
       {
-        "parcelNumber": "",
-        "weight": 0,
-        "volume": 0.0,
-        "additionalServices": [
-          {
-            "code": "JAV",
-            "amount": 0.0
-          }
-        ],
-        "cn23": [
-          {
-            "content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
-            "quantity": 1
-          }
-        ],
-        "international": {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
           "nonDeliveryInstruction": 1,
           "categoryType": 5,
           "categoryExplanation": "",
-          "importer": "",
-          "importerPhone": "",
-          "importerEmail": "",
+          "importerReference": "",
+          "importerPhone": "4033181440",
+          "importerEmail": "s4szbw2shw6f1ch@marketplace.amazon.ca",
           "comments": "",
-          "license": "",
+          "licence": "",
           "certificate": "",
           "invoice": "",
-          "codForeign": 0.0,
-          "codForeignCurrency": null
+          "codForeign": 0,
+          "codForeignCurrency": ""
         },
-        "parcelContent": 1
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 69.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
       }
     ],
-    "commonServices": null,
-    "addressee": {
-      "addresseeName1": "Maryam Askari",
-      "addresseeName2": "maryam",
-      "addresseeAddress": "44 Coldstream Run",
-      "addresseePostId": "B2W 0A3",
-      "addresseePost": "Dartmouth",
-      "addresseeCountryId": "124",
-      "addresseePhone": "9024405218",
-      "addresseeEmail": "82yc7pjq6mrk6hg@marketplace.amazon.ca"
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Susan Bergquist",
+      "AddresseeName2": "Dwayne Bergquist",
+      "AddresseeAddress": "69 Kendrew Drive",
+      "AddresseePostId": "T4P 3T8",
+      "AddresseePost": "Red Deer",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "4033181440",
+      "AddresseeEmail": "s4szbw2shw6f1ch@marketplace.amazon.ca"
     },
-    "upn": null,
-    "comment1": null,
-    "comment2": null
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "519 280 7711",
+          "importerEmail": "7qtxvn63vmr0zrb@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee , 12er Pack (12 x 5 Stück Packung)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 56.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Mark miller",
+      "AddresseeName2": "Mark miller",
+      "AddresseeAddress": "16 McManus Place",
+      "AddresseePostId": "N5V 4X2",
+      "AddresseePost": "London",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "519 280 7711",
+      "AddresseeEmail": "7qtxvn63vmr0zrb@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "5145499404",
+          "importerEmail": "vqll908ph5f00rt@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee , 12er Pack (12 x 5 Stück Packung)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 56.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Melissa Martinez",
+      "AddresseeName2": "Melissa Martinez",
+      "AddresseeAddress": "1618 Ramsay Concession 12",
+      "AddresseePostId": "K0A 1A0",
+      "AddresseePost": "Almonte",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "5145499404",
+      "AddresseeEmail": "vqll908ph5f00rt@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "403-554-1149",
+          "importerEmail": "m74jtxwv2hr3b7t@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee , 12er Pack (12 x 5 Stück Packung)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 56.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Cassandra Amber Limoges",
+      "AddresseeName2": "Cassandra Limoges",
+      "AddresseeAddress": "56 Abadan Crescent NE",
+      "AddresseePostId": "T2A 6N9",
+      "AddresseePost": "Calgary",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "403-554-1149",
+      "AddresseeEmail": "m74jtxwv2hr3b7t@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "4169174904",
+          "importerEmail": "ll5jvmc1x6m8ndf@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 69.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Joe Coelho",
+      "AddresseeName2": "joe coelho",
+      "AddresseeAddress": "37 Allenby Street",
+      "AddresseePostId": "L4H 3P4",
+      "AddresseePost": "Woodbridge",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "4169174904",
+      "AddresseeEmail": "ll5jvmc1x6m8ndf@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "2048412179",
+          "importerEmail": "2ftjj4kkv2cbqjv@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee , 12er Pack (12 x 5 Stück Packung)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 56.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Jeannette Heppner",
+      "AddresseeName2": "Jeannette",
+      "AddresseeAddress": "PO Box 127",
+      "AddresseePostId": "R0J 0V0",
+      "AddresseePost": "Glenella",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "2048412179",
+      "AddresseeEmail": "2ftjj4kkv2cbqjv@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "8198205096",
+          "importerEmail": "n1mp7bvgb5f061x@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 69.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "David Blais Côté",
+      "AddresseeName2": "David Blais côté",
+      "AddresseeAddress": "715 13E Avenue Nord App 101",
+      "AddresseePostId": "J1E 3G6",
+      "AddresseePost": "Sherbrooke",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "8198205096",
+      "AddresseeEmail": "n1mp7bvgb5f061x@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  },
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 0,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "604-425-1900",
+          "importerEmail": "j6gf333y2rlnnrh@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 0,
+            "Value": 69.9,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Coastal Rivers Pet Hospital",
+      "AddresseeName2": "Ira Borgmann",
+      "AddresseeAddress": "2-1993 Riverside Road",
+      "AddresseePostId": "V2S 4J8",
+      "AddresseePost": "Abbotsford",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "604-425-1900",
+      "AddresseeEmail": "j6gf333y2rlnnrh@marketplace.amazon.ca"
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
   }
 ]
