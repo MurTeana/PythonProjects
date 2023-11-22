@@ -1,0 +1,53 @@
+[
+  {
+    "RecordNumber": 0,
+    "ParcelType": 329,
+    "Parcels": [
+      {
+        "ParcelNumber": "",
+        "Weight": 800,
+        "Volume": 0,
+        "AdditionalServices": null,
+        "International": {
+          "nonDeliveryInstruction": 1,
+          "categoryType": 5,
+          "categoryExplanation": "",
+          "importerReference": "",
+          "importerPhone": "9024405218",
+          "importerEmail": "82yc7pjq6mrk6hg@marketplace.amazon.ca",
+          "comments": "",
+          "licence": "",
+          "certificate": "",
+          "invoice": "",
+          "codForeign": 0,
+          "codForeignCurrency": ""
+        },
+        "Cn23": [
+          {
+            "Content": "Pocket Coffee Ferrero 12-5 Piece Packs (60 Piece Case)",
+            "Quantity": 1,
+            "NetWeight": 800,
+            "Value": 45,
+            "Tariff": "18069011",
+            "CountryOfOrigin": "705"
+          }
+        ]
+      }
+    ],
+    "CommonServices": null,
+    "Addressee": {
+      "AddresseeName1": "Maryam Askari",
+      "AddresseeName2": "",
+      "AddresseeAddress": "44 Coldstream Run",
+      "AddresseePostId": "B2W 0A3",
+      "AddresseePost": "Dartmouth",
+      "AddresseeCountryId": "124",
+      "AddresseeCountryAreaId": "",
+      "AddresseePhone": "9024405218",
+      "AddresseeEmail": ""
+    },
+    "Upn": null,
+    "Comment1": "",
+    "Comment2": ""
+  }
+]
