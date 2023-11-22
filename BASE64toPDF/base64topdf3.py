@@ -33,7 +33,7 @@ def decode_base64_values_from_json_to_pdfs(json_file_path, output_directory):
             base64_string = data_entry.get("Value", "")
 
             # Create a unique output PDF file path based on the index
-            output_pdf_path = f"{output_directory}/parcel_{i+1}.pdf"
+            output_pdf_path = f"{output_directory}/parcel_{i + 1}.pdf"  #
 
             # Decode and save as a PDF file
             decode_base64_to_pdf(base64_string, output_pdf_path)
